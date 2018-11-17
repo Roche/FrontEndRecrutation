@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+th {
+    text-transform: uppercase;
+    background-color: rgba(218,165,32,0.3);
+
+}
+
+th,td {
+    border: 1px solid goldenrod;
+    padding: 10px 15px;
+}
+
+.names{
+    font-weight: 700;
+}
